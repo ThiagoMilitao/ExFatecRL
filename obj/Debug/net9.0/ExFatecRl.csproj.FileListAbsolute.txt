@@ -1,0 +1,15 @@
+C:\Users\thiag\Github\ListasLp1\Lista1\ExFatecRl\bin\Debug\net9.0\ExFatecRl.exe
+C:\Users\thiag\Github\ListasLp1\Lista1\ExFatecRl\bin\Debug\net9.0\ExFatecRl.deps.json
+C:\Users\thiag\Github\ListasLp1\Lista1\ExFatecRl\bin\Debug\net9.0\ExFatecRl.runtimeconfig.json
+C:\Users\thiag\Github\ListasLp1\Lista1\ExFatecRl\bin\Debug\net9.0\ExFatecRl.dll
+C:\Users\thiag\Github\ListasLp1\Lista1\ExFatecRl\bin\Debug\net9.0\ExFatecRl.pdb
+C:\Users\thiag\Github\ListasLp1\Lista1\ExFatecRl\obj\Debug\net9.0\ExFatecRl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Github\ListasLp1\Lista1\ExFatecRl\obj\Debug\net9.0\ExFatecRl.AssemblyInfoInputs.cache
+C:\Users\thiag\Github\ListasLp1\Lista1\ExFatecRl\obj\Debug\net9.0\ExFatecRl.AssemblyInfo.cs
+C:\Users\thiag\Github\ListasLp1\Lista1\ExFatecRl\obj\Debug\net9.0\ExFatecRl.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Github\ListasLp1\Lista1\ExFatecRl\obj\Debug\net9.0\ExFatecRl.sourcelink.json
+C:\Users\thiag\Github\ListasLp1\Lista1\ExFatecRl\obj\Debug\net9.0\ExFatecRl.dll
+C:\Users\thiag\Github\ListasLp1\Lista1\ExFatecRl\obj\Debug\net9.0\refint\ExFatecRl.dll
+C:\Users\thiag\Github\ListasLp1\Lista1\ExFatecRl\obj\Debug\net9.0\ExFatecRl.pdb
+C:\Users\thiag\Github\ListasLp1\Lista1\ExFatecRl\obj\Debug\net9.0\ExFatecRl.genruntimeconfig.cache
+C:\Users\thiag\Github\ListasLp1\Lista1\ExFatecRl\obj\Debug\net9.0\ref\ExFatecRl.dll
